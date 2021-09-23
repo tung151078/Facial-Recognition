@@ -4,11 +4,11 @@ import time
 
 #####################################################
 
-myPath = r'images/' # Rasbperry Pi:  '/home/pi/Desktop/data/images'
-cameraNo = 1
+myPath = 'images/tung/' # Rasbperry Pi:  '/home/pi/Desktop/data/images'
+cameraNo = 0
 cameraBrightness = 10
 moduleVal = 10  # SAVE EVERY ITH FRAME TO AVOID REPETITION
-minBlur = 500  # SMALLER VALUE MEANS MORE BLURRINESS PRESENT
+minBlur = 150  # SMALLER VALUE MEANS MORE BLURRINESS PRESENT
 grayImage = False # IMAGES SAVED COLORED OR GRAY
 saveData = True   # SAVE DATA FLAG
 showImage = True  # IMAGE DISPLAY FLAG
