@@ -13,7 +13,7 @@ grayImage = False # IMAGES SAVED COLORED OR GRAY
 saveData = True   # SAVE DATA FLAG
 showImage = True  # IMAGE DISPLAY FLAG
 imgWidth = 300
-imgHeight = 200
+imgHeight = 300
 
 
 #####################################################
