@@ -1,7 +1,7 @@
-matplotlib
+argparse
+matplotlib.pyplot
 numpy
 pandas
-opencv-contrib-python
 tensorflow_hub
 tensorflow
 opencv
