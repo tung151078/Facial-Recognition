@@ -1,7 +1,6 @@
 argparse
-matplotlib.pyplot
+matplotlib
 numpy
 pandas
-tensorflow_hub
 tensorflow
 opencv
