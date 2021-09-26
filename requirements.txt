@@ -2,5 +2,8 @@ argparse
 matplotlib
 numpy
 pandas
-tensorflow
-opencv
+tensorflow_hub
+streamlit
+opencv-contrib-python
+opencv-python
+pillow
