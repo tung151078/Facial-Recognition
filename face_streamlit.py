@@ -1,5 +1,7 @@
 import streamlit as st
-import argparse, cv2, os
+import argparse
+import cv2
+import os
 import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
